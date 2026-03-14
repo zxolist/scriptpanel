@@ -1,0 +1,22 @@
+{
+  "ABCD-1234-EFGH-5678": {
+    "user": "customer1",
+    "expires": "2026-12-31",
+    "active": true
+  },
+  "WXYZ-9012-MNOP-3456": {
+    "user": "customer2",
+    "expires": "permanent",
+    "active": true
+  },
+  "DEMO-0000-TEST-1111": {
+    "user": "demo_user",
+    "expires": "2026-06-01",
+    "active": true
+  },
+  "BAN0-XXXX-YYYY-ZZZZ": {
+    "user": "banned_user",
+    "expires": "2026-12-31",
+    "active": false
+  }
+}
